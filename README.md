@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeGazer90
 - 👀 I’m interested in creating my first projects.
 - 🌱 I’m currently learning the basics including: html, css and javascript.
-- 💞️ I’m looking to collaborate on anthing that will help me learn to code and build real projects.
+- 💞️ I’m looking to collaborate on anything that will help me learn to code and build real projects.
 - 📫 How to reach me : benevolentkstudios@gmail.com
 
 <!---
