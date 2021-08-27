@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CodeGazer90
-- 👀 I’m interested in creating my first projects.
-- 🌱 I’m currently learning the basics including: html, css and javascript.
-- 💞️ I’m looking to collaborate on anything that will help me learn to code and build real projects.
+- 👀 I’m am currently a student with Savvy Coders on my way to becoming a software engineer.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Node, Express, Mongo. Db, API’s, Axios, Navigo, HTTP Restful API’s, VS Code, Markdown, GitHub, UI/UX, Jira, Agile, OOP, SPA’s, CRUD Operations, Deploying to Netlify and Heroku.
 - 📫 How to reach me : benevolentkstudios@gmail.com
 
 <!---
